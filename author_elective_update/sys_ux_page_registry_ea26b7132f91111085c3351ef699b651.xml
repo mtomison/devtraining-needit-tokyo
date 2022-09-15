@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>1626b7132f91111085c3351ef699b64e</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>vendor-management-experience</path>
+        <root_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 15:28:28</sys_created_on>
+        <sys_id>ea26b7132f91111085c3351ef699b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vendor Management Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_page_registry_ea26b7132f91111085c3351ef699b651</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 15:28:28</sys_updated_on>
+        <title>Vendor Management Experience</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>73ab22bedbb4bb000ae3ac44d4961931</instance_id>
+        <instance_name>dev81683</instance_name>
+        <name>sys_ux_page_registry_ea26b7132f91111085c3351ef699b651</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>1626b7132f91111085c3351ef699b64e</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>vendor-management-experience</path><root_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-19 15:28:28</sys_created_on><sys_id>ea26b7132f91111085c3351ef699b651</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vendor Management Experience</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_page_registry_ea26b7132f91111085c3351ef699b651</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-19 15:28:28</sys_updated_on><title>Vendor Management Experience</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1531228524</payload_hash>
+        <record_name>Vendor Management Experience</record_name>
+        <reverted_from/>
+        <source>3a0408932f5d511085c3351ef699b68e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 15:28:28</sys_created_on>
+        <sys_id>6e26b7132f91111085c3351ef699b653</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182b6b84e140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-19 15:28:28</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>a626b713ec9111101a503a7800649453</update_guid>
+        <update_guid_history>a626b713ec9111101a503a7800649453:-1531228524</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-19 16:02:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>685b43c8d0574a28a5cde24e141abc24</sys_id>
+        <sys_metadata>ea26b7132f91111085c3351ef699b651</sys_metadata>
+        <sys_name>Vendor Management Experience</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_ea26b7132f91111085c3351ef699b651</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_ea26b7132f91111085c3351ef699b651">6e26b7132f91111085c3351ef699b653</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
